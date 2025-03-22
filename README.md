@@ -1,5 +1,12 @@
 # deliverables
 
 estatapi 成果物用.ipynb
-e-stat apiからpythonを活用した、データ取得、gcsへのアップロード、vscode活用、etl、githubへのアップロードまでを実施した。
 
+e-stat apiからpythonを活用した、データ取得、gcsへのアップロード、vscode活用、etl、githubへのアップロードまでを実施した。2025年に作成しました。
+
+成果物_在庫管理_機械学習.pptx
+
+成果物_環境測定値_機械学習.pptx
+
+この２つのファイルはテーブルデータ時系列データの機械学習に関する成果物です。
+2022年に作成しました。
