@@ -1,8 +1,12 @@
 # deliverables
 
-[estatapi 成果物用.ipynb]
+[estatapi 成果物用(GCS).ipynb]
 
 ・e-stat apiからpythonを活用した、データ取得、gcsへのアップロード、vscode活用、etl、githubへのアップロードまでを実施した。2025年に作成しました。
+
+[estatapi 成果物用(bigquery).ipynb]
+
+・e-stat apiからpythonを活用した、データ取得、bigqueryへのアップロード、vscode活用、etl、githubへのアップロードまでを実施した。2025年に作成しました。
 
 [成果物_在庫管理_機械学習.pptx]
 
